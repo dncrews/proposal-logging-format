@@ -21,12 +21,6 @@ and to break them down by aggregate in our logging platform. The addition of a s
 will simplify our logs and allow us to create parsers that can properly process and analyze our
 systems.
 
-### Additional Considerations
-
-- Thoughtful fields: in some log aggregation platforms, there are limits on the number of indexable
-fields.
-- Datatypes: numbers should be numbers; strings should be strings; objects should be shallow
-
 
 ## Gathered Data
 
